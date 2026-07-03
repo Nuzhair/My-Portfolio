@@ -47,5 +47,5 @@ The site was built iteratively in conversation with Claude. Prompts used, in ord
 ## Files
 
 - `portfolio.html` — the complete site
-- `README.md` — this file
+- `README.md` — this file.
 
